@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**skjskz64/skjskz64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Pratiksha👋
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE (AI & ML) student at VIT Bhopal University  
+🌱 Currently in my first year, exploring the world of technology  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 About Me
+
+I am a curious and passionate learner who enjoys understanding how things work, especially in the field of technology. I am currently exploring programming, data structures, and the basics of artificial intelligence and machine learning.
+
+I believe in learning by doing, so I try to build small projects and improve my skills step by step. My goal is to become confident in coding and develop real-world solutions using technology.
+
+---
+
+## 🚀 What I'm Learning
+
+- Python and C++  
+- Data Structures & Algorithms  
+- Basics of AI & Machine Learning  
+- Problem Solving  
+
+---
+
+## 🎯 Goals
+
+- Build meaningful projects  
+- Participate in coding challenges  
+- Improve problem-solving skills  
+- Grow as a developer over the next four years  
+
+---
+
+## 📫 Let's Connect
+
+I am always open to learning, collaboration, and new opportunities!
