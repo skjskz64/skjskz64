@@ -14,15 +14,6 @@ I believe in learning by doing, so I try to build small projects and improve my 
 
 ---
 
-## 🚀 What I'm Learning
-
-- Python and C++  
-- Data Structures & Algorithms  
-- Basics of AI & Machine Learning  
-- Problem Solving  
-
----
-
 ## 🎯 Goals
 
 - Build meaningful projects  
@@ -30,8 +21,4 @@ I believe in learning by doing, so I try to build small projects and improve my 
 - Improve problem-solving skills  
 - Grow as a developer over the next four years  
 
----
 
-## 📫 Let's Connect
-
-I am always open to learning, collaboration, and new opportunities!
